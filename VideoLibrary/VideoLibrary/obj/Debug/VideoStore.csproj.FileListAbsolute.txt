@@ -1,0 +1,10 @@
+C:\Users\Toni\documents\visual studio 2013\Projects\VideoLibrary\VideoLibrary\bin\Debug\VideoLibrary.exe.config
+C:\Users\Toni\documents\visual studio 2013\Projects\VideoLibrary\VideoLibrary\bin\Debug\VideoLibrary.exe
+C:\Users\Toni\documents\visual studio 2013\Projects\VideoLibrary\VideoLibrary\bin\Debug\VideoLibrary.pdb
+C:\Users\Toni\documents\visual studio 2013\Projects\VideoLibrary\VideoLibrary\obj\Debug\VideoStore.csprojResolveAssemblyReference.cache
+C:\Users\Toni\documents\visual studio 2013\Projects\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.MainForm.resources
+C:\Users\Toni\documents\visual studio 2013\Projects\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.Properties.Resources.resources
+C:\Users\Toni\documents\visual studio 2013\Projects\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.VideoLibraryForm.resources
+C:\Users\Toni\documents\visual studio 2013\Projects\VideoLibrary\VideoLibrary\obj\Debug\VideoStore.csproj.GenerateResource.Cache
+C:\Users\Toni\documents\visual studio 2013\Projects\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.exe
+C:\Users\Toni\documents\visual studio 2013\Projects\VideoLibrary\VideoLibrary\obj\Debug\VideoLibrary.pdb
